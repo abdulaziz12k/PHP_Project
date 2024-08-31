@@ -4,5 +4,5 @@ use Illuminate\support\Facades\Route;
 
 
 Route::get('/',function(){
-    return view('mainpage');
+    return view('home');
 });
