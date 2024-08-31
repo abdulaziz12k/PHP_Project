@@ -3,6 +3,6 @@
 use Illuminate\support\Facades\Route;
 
 
-Route::get('/mainpage',function(){
+Route::get('/',function(){
     return view('mainpage');
 });
