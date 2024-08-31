@@ -8,6 +8,6 @@ Route::get('/', function () {
 
 
 Route::get('/mainpage',function(){
-    return view('This is it, we making progress 
+    return view('This is/nit, we making progress 
     finally !');
 });
