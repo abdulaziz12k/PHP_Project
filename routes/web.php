@@ -1,6 +1,6 @@
 <?php
 
-use ILLuminate\support\Facades\Route;
+use Illuminate\support\Facades\Route;
 
 
 Route::get('/mainpage',function(){
